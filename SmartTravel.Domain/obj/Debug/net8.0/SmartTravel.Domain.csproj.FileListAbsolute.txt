@@ -1,0 +1,12 @@
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\bin\Debug\net8.0\SmartTravel.Domain.deps.json
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\bin\Debug\net8.0\SmartTravel.Domain.dll
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\bin\Debug\net8.0\SmartTravel.Domain.pdb
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\SmartTravel.Domain.csproj.AssemblyReference.cache
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\SmartTravel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\SmartTravel.Domain.AssemblyInfoInputs.cache
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\SmartTravel.Domain.AssemblyInfo.cs
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\SmartTravel.Domain.csproj.CoreCompileInputs.cache
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\SmartTravel.Domain.dll
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\refint\SmartTravel.Domain.dll
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\SmartTravel.Domain.pdb
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.Domain\obj\Debug\net8.0\ref\SmartTravel.Domain.dll

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTravel.WebAPI", "SmartTravel.WebAPI\SmartTravel.WebAPI.csproj", "{1083F798-212E-4518-83B7-5CB25D5C8599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTravel.Infrastructure", "SmartTravel.Infrastructure\SmartTravel.Infrastructure.csproj", "{48543DD7-7759-4E5C-91D5-CBB23A695293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTravel.Domain", "SmartTravel.Domain\SmartTravel.Domain.csproj", "{3FA6C5A2-4974-44F1-BFED-B4404C7E8B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTravel.Application", "SmartTravel.Application\SmartTravel.Application.csproj", "{06B2D4A6-C93B-4D6C-8612-1F530386205E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1083F798-212E-4518-83B7-5CB25D5C8599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1083F798-212E-4518-83B7-5CB25D5C8599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1083F798-212E-4518-83B7-5CB25D5C8599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1083F798-212E-4518-83B7-5CB25D5C8599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48543DD7-7759-4E5C-91D5-CBB23A695293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48543DD7-7759-4E5C-91D5-CBB23A695293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48543DD7-7759-4E5C-91D5-CBB23A695293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48543DD7-7759-4E5C-91D5-CBB23A695293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA6C5A2-4974-44F1-BFED-B4404C7E8B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA6C5A2-4974-44F1-BFED-B4404C7E8B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA6C5A2-4974-44F1-BFED-B4404C7E8B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA6C5A2-4974-44F1-BFED-B4404C7E8B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B2D4A6-C93B-4D6C-8612-1F530386205E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B2D4A6-C93B-4D6C-8612-1F530386205E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B2D4A6-C93B-4D6C-8612-1F530386205E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B2D4A6-C93B-4D6C-8612-1F530386205E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1BE087-E387-432A-9E04-2C7C9CC213D4}
+	EndGlobalSection
+EndGlobal

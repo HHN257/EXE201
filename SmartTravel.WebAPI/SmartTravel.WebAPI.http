@@ -1,0 +1,6 @@
+@SmartTravel.WebAPI_HostAddress = http://localhost:5266
+
+GET {{SmartTravel.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
