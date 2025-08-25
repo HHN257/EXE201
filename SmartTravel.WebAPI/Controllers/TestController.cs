@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace SmartTravel.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class TestController : ControllerBase
     {
         [HttpGet]
@@ -13,3 +15,4 @@ namespace SmartTravel.WebAPI.Controllers
         }
     }
 }
+

@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using SmartTravel.Application.DTOs;
 using SmartTravel.Domain.Entities;
@@ -8,6 +9,7 @@ namespace SmartTravel.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class BookingsController : ControllerBase
     {
         private readonly SmartTravelDbContext _dbContext;

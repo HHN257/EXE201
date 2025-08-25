@@ -147,3 +147,5 @@ D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.WebAPI\obj\Debug\net8.0\Sma
 D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.WebAPI\obj\Debug\net8.0\SmartTravel.WebAPI.genruntimeconfig.cache
 D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.WebAPI\obj\Debug\net8.0\ref\SmartTravel.WebAPI.dll
 D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.WebAPI\obj\Debug\net8.0\SmartTravel.WebAPI.sourcelink.json
+D:\Documents\8th\EXE Project\SmartTravel\SmartTravel.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

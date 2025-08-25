@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using SmartTravel.Application.DTOs;
 using SmartTravel.Infrastructure.Data;
@@ -7,6 +8,7 @@ namespace SmartTravel.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class CurrencyController : ControllerBase
     {
         private readonly SmartTravelDbContext _dbContext;
